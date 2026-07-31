@@ -1,7 +1,16 @@
 aid: nix
 name: Nix
-description: Nix is a company surfaced as a portfolio company of techstars and added to the API Evangelist
-  network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  Nix (Nix Biosensors) develops wearable biosensor technology that analyzes
+  sweat to deliver real-time hydration and electrolyte data. Its lightweight
+  single-use biosensor patch continuously measures fluid and electrolyte losses
+  and provides personalized hydration guidance to athletes, service members, and
+  laborers. The company ships two consumer/enterprise offerings: Nix Solo, an
+  individual app for self-monitoring hydration, and Nix Pro, a group-monitoring
+  platform that lets coaches and supervisors track multiple users. Nix is a
+  Techstars portfolio company. As of this enrichment pass it operates a
+  direct-to-consumer commerce and mobile-app business with no public developer
+  program, API documentation, or SDK surface.
 url: https://raw.githubusercontent.com/api-evangelist/nix/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -9,11 +18,29 @@ x-backed-by:
 - techstars
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-20'
+image: https://nixbiosensors.com/
 tags:
 - Company
+- Biosensors
+- Wearables
+- Hydration
+- Health
+- Sports
+- IoT
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -23,3 +50,20 @@ maintainers:
 common:
 - type: Website
   url: https://nixbiosensors.com/
+- type: Blog
+  url: https://nixbiosensors.com/pages/hydration-blog
+- type: Support
+  url: https://nixbiosensors.com/pages/troubleshooting-support-hub
+- type: HelpCenter
+  url: https://nixbiosensors.com/pages/faqs
+- type: Pricing
+  url: https://nixbiosensors.com/collections/all-products
+- type: TermsOfService
+  url: https://nixbiosensors.com/pages/terms-of-use
+- type: PrivacyPolicy
+  url: https://nixbiosensors.com/pages/privacy-policy
+x-enrichment:
+  date: '2026-07-20'
+  status: minimal
+  artifacts_added: 0
+  pass: local-v1
