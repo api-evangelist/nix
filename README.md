@@ -64,6 +64,74 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Nix is a company surfaced as a portfolio company of techstars and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+Nix (Nix Biosensors) develops wearable biosensor technology that analyzes sweat to deliver real-time hydration and electrolyte data. Its lightweight single-use biosensor patch continuously measures fluid and electrolyte losses and provides personalized hydration guidance to athletes, service members, and laborers. The company ships two consumer/enterprise offerings: Nix Solo, an individual app for self-monitoring hydration, and Nix Pro, a group-monitoring platform that lets coaches and supervisors track multiple users. Nix is a Techstars portfolio company. As of this enrichment pass it operates a direct-to-consumer commerce and mobile-app business with no public developer program, API documentation, or SDK surface.
 
-Backed by: techstars — https://nixbiosensors.com/
+**Areas:** Company · Biosensors · Wearables · Hydration · Health · Sports · IoT
+
+## Nix on APIs.io
+
+Everything profiled for Nix is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/nix/](https://apis.io/providers/nix/)** — or go straight to one of the APIs or properties below.
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://nixbiosensors.com/)
+- [Pricing](https://nixbiosensors.com/collections/all-products)
+- [Support](https://nixbiosensors.com/pages/troubleshooting-support-hub)
+- [Blog](https://nixbiosensors.com/pages/hydration-blog)
+- [Terms of service](https://nixbiosensors.com/pages/terms-of-use)
+- [Privacy policy](https://nixbiosensors.com/pages/privacy-policy)
+
+## API Evangelist rating
+
+**Kin Score 11.7** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 7.1 |
+| Access clarity | 31.6 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 6.3** — Health
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/nix/](https://apis.io/providers/nix/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Nix: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/nix/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
